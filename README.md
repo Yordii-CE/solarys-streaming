@@ -7,8 +7,7 @@ Basic streaming app based on netflix created with the [easyflow](https://github.
 
 
 
-https://github.com/Yordii-CE/solarys-streaming/assets/94014080/2f5e28a2-5055-442b-950c-91226a66374e
-
+https://github.com/Yordii-CE/solarys-streaming/assets/94014080/3177325c-c6a5-4ad4-88a3-b01e13938e44
 
 
 
