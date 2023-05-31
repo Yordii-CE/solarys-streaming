@@ -1,5 +1,12 @@
 Basic streaming app based on netflix created with the [easyflow](https://github.com/Yordii-CE/easyflow) framework and MySQL.
 
+### Implement
+
+- Download the repository.
+- Run the database located in Jhonatan/solarys/solarys.sql".
+- On the xampp server, paste in htdocs the backend "solarys", solarys must be inside a folder called "Jhonatan".
+- Change database credentials in Jhonatan/solarys/app/config/config.php.
+
 ### Screenshots
 
 - Program video
